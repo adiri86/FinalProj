@@ -1,0 +1,67 @@
+כונן N
+
+
+
+
+
+
+לעדכן את הglob resource(גרסאות DLL ניהול)
+ואת msi suit
+כל פעם שיש pr 
+מעדכים את זה ידני
+ניהול גרסאות של הקליינט עצמו msi+dll
+
+
+
+
+ישנו קובץ
+regini
+שיושב בגיט ששמה מנהלים את הגרסא
+-או לפני שהבנייה מצחילה בפייפלין אני מריץ פאוור של שמעדכן את הרקקבצים האלה
+אבל החסרון הוא שפאוור של לא יודע מה הגרסה הקיימת
+-השיטה השניה החיא דרך גיט
+מעלים ב1 את הגרסה
+ועושים
+PR 
+
+
+
+
+
+
+
+
+לחתום על קבצים עם dll
+מדי פעם הקליינט דורש סיסמה
+
+  להכניס את ה 
+credentials 
+ב 
+cache-
+כדי שהחלון לא יפתח אף פעם 
+
+
+
+
+
+
+
+
+label\tag for pr
+
+
+
+
+
+
+
+
+
+1. finish dsa project
+2. ask about ssh keys
+מנסה להרים מערכת ci
+עם פייפליין
+3. יצירת 2 דוקרים של QSCD
+4. N drive
+5. docker qscd with auto qa\jenkins
+6. qscd + cse + audit +ntp+ ssa by demand as container        docker qutoqa \ docker qscd
